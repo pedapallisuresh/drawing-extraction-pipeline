@@ -11,6 +11,8 @@ AI-powered structured data extraction from engineering drawings (PDF, images) us
 
 *See the pipeline in action — upload a drawing, select domain, and extract structured data in real-time.*
 
+**📺 [Watch Full Demo Video](https://github.com/pedapallisuresh/drawing-extraction-pipeline/releases/tag/video)** | [View All Releases](https://github.com/pedapallisuresh/drawing-extraction-pipeline/releases)
+
 ## Features
 
 ✨ **Multi-Format Support**: PDF, PNG, JPG, JPEG, WEBP, BMP, TIFF
