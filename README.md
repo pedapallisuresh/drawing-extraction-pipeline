@@ -2,6 +2,14 @@
 
 AI-powered structured data extraction from engineering drawings (PDF, images) using vision models. Extract components, elements, and metadata from Civil, Electrical, and Chip domain drawings in seconds.
 
+## 📹 Demo
+
+[![Watch the working prototype](https://img.shields.io/badge/📹_Watch_Demo-blue?style=for-the-badge)](https://github.com/pedapallisuresh/drawing-extraction-pipeline/releases/download/video/suresh_ultratech._poc.mp4)
+
+*See the pipeline in action — upload a drawing, select domain, and extract structured data in real-time.*
+
+[Download full video](https://github.com/pedapallisuresh/drawing-extraction-pipeline/releases/tag/video)
+
 ## Features
 
 ✨ **Multi-Format Support**: PDF, PNG, JPG, JPEG, WEBP, BMP, TIFF
