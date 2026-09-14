@@ -4,11 +4,12 @@ AI-powered structured data extraction from engineering drawings (PDF, images) us
 
 ## 📹 Demo
 
-[![Watch the working prototype](https://img.shields.io/badge/📹_Watch_Demo-blue?style=for-the-badge)](https://github.com/pedapallisuresh/drawing-extraction-pipeline/releases/download/video/suresh_ultratech._poc.mp4)
+<video width="100%" height="auto" controls style="max-width: 800px;">
+  <source src="https://github.com/pedapallisuresh/drawing-extraction-pipeline/releases/download/video/suresh_ultratech._poc.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 *See the pipeline in action — upload a drawing, select domain, and extract structured data in real-time.*
-
-[Download full video](https://github.com/pedapallisuresh/drawing-extraction-pipeline/releases/tag/video)
 
 ## Features
 
