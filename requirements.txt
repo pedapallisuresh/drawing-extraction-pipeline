@@ -1,0 +1,6 @@
+pillow<11.0.0
+pymupdf
+gradio
+requests
+python-dotenv
+pandas
